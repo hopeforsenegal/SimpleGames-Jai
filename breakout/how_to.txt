@@ -1,0 +1,5 @@
+build:
+jai breakout.jai -output_path bin
+
+run:
+bin\breakout

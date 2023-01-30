@@ -1,0 +1,5 @@
+build:
+jai "space invaders.jai" -output_path bin
+
+run:
+"bin\space invaders.exe"

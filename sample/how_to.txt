@@ -1,0 +1,5 @@
+build:
+jai sample.jai -output_path bin
+
+run:
+bin\sample
